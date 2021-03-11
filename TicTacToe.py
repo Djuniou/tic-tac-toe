@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 11 10:56:57 2021
-
-@author: felip
-"""
-
 class Board:
 # _0_|_1_|_2_
 # _3_|_4_|_5_
